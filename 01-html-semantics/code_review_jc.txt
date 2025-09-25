@@ -1,0 +1,2 @@
+For the quiz 1 part 1, if the "page" file is the answer, the code looks good and fixed the semantics perfectly. The same is true with the part 2.
+But it seems the page file for part 1 is missing the ".html" file format extension name, otherwise everything looks great!
